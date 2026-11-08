@@ -1,1 +1,9 @@
-
+{
+  "name": "al-x-v1",
+  "version": "1.0.0",
+  "description": "Sistema educativo inteligente AL-X",
+  "main": "api/index.js",
+  "dependencies": {
+    "express": "^4.19.2"
+  }
+}
